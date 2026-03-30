@@ -1,0 +1,19 @@
+{
+  "name": "b2bo-fitness-studio",
+  "version": "1.0.0",
+  "description": "Better to Best Outcome Fitness Studio",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "gsap": "^3.12.0",
+    "three": "^0.160.0",
+    "@studio-freight/lenis": "^1.0.39"
+  }
+}
